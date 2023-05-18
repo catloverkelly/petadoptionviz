@@ -1,5 +1,8 @@
 # Cat and Dog Adoption Trends
-This is a data visualization project from Springboard that I am quite proud of. In the course, I wrangled data and created visualizations through Jupyter notebooks and created presentation slides. This part of the project was completed in January 2023. There will be a Tableau dashboard of this project soon.
+This is a data visualization project from Springboard that I am quite proud of. In the course, I wrangled data and created visualizations through Jupyter notebooks and created presentation slides. This part of the project was completed in January 2023. As of April 2023, I have created a Tableau story for this project -- I discovered that cats contributed to the seasonality of shelter intake and movement. Interestingly enough, there seems to be no seasonal pattern in dog intake and movement.
+
+The Tableau Public link is below:
+https://public.tableau.com/app/profile/kelly5089/viz/shared/M7WRWM622
 
 ### The Dataset:
 
